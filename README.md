@@ -41,4 +41,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para rela
 
 ## Autor
 
-- [Seu Nome](https://github.com/seu-usuario)
+- [Daniel Anderson](https://github.com/seu-usuario)
