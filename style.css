@@ -1,0 +1,69 @@
+/* Definição do estilo básico para o corpo da página */
+body {
+    background-color: #f5f5dc;
+    font-family: 'Courier New', Courier, monospace;
+    color: #4b0082;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para o contêiner principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo para os títulos h1 e h2 */
+h1, h2 {
+    color: #d2691e;
+}
+
+/* Estilo para formularios */
+form {
+    background-color: #ffebcd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para o campo de entrada de data */
+input[type="date"] {
+    border: 2px solid #4b0082;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 20px;
+}
+
+/* Estilo para botões */
+button {
+    background-color: #d2691e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #a0522d;
+}
+
+/* Estilo para links com a classe btn-secondary */
+a.btn-secondary {
+    background-color: #4b0082;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+a.btn-secondary:hover {
+    background-color: #6a5acd;
+}
